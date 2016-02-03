@@ -1,0 +1,30 @@
+total 743
+-rw-rw-r-- 1 jalal jalal   1568 Jan 28 21:30 agreement.txt
+-rw-rw-r-- 1 jalal jalal     64 Jan 30 23:30 awk_example.txt
+-rw-rw-r-- 1 jalal jalal  41643 Jan 28 21:24 cs.html
+-rw-rw-r-- 1 jalal jalal  41643 Jan 28 21:31 cs_web
+-rw-rw-r-- 1 jalal jalal  41665 Feb  1 18:33 cs_web.html
+-rw-rw-r-- 1 jalal jalal  35286 Jan 31 19:39 [0m[38;5;9mcurrent_directory.tar.bz2[0m
+-rw-rw-r-- 1 jalal jalal    116 Feb  3 00:20 [38;5;9mcurrent_directory.tar.gz[0m
+drwxrwxr-x 2 jalal jalal   2048 Feb  3 00:22 [38;5;27mdir_new[0m/
+-rw-rw-r-- 1 jalal jalal     67 Jan 28 19:35 good_users.txt
+-rw-rw-r-- 1 jalal jalal      0 Jan 31 19:13 important_file
+-rw-rw-r-- 1 jalal jalal    280 Jan 31 00:29 johns.txt
+-rw-rw-r-- 1 jalal jalal      0 Feb  3 02:06 ls-l.txt
+-rw-rw-r-- 1 jalal jalal    145 Jan 30 23:20 marks.txt
+-rw-rw-r-- 1 jalal jalal 101147 Jan 31 19:56 [38;5;9mmyfiles.zip[0m
+-rw-rw-r-- 1 jalal jalal      0 Feb  3 00:20 new_file
+-rw-rw-r-- 1 jalal jalal     62 Feb  3 00:57 non_indented.c
+-rw-rw-r-- 1 jalal jalal    234 Jan 28 20:18 reverse_sorted_user.txt
+-rw-rw-r-- 1 jalal jalal    397 Jan 31 00:30 sed_example.txt
+-rwxrwxr-x 1 jalal jalal    137 Feb  3 01:25 [38;5;34msimple_bash.sh[0m*
+drwxrwxr-x 2 jalal jalal   2048 Jan 28 20:22 [38;5;27msoftlink[0m/
+-rw-rw-r-- 1 jalal jalal    391 Jan 31 00:28 songs.txt
+-rw-rw-r-- 1 jalal jalal    234 Jan 28 20:16 sorted_user.txt
+-rw-rw-r-- 1 jalal jalal 473387 Feb  3 00:30 [38;5;9mtar_new.tar.gz[0m
+-rw-rw-r-- 1 jalal jalal      0 Feb  1 18:29 temp
+lrwxr-xr-x 1 jalal jalal     13 Jan 28 20:23 [38;5;51mtest[0m -> softlink/test
+drwxrwxr-x 3 jalal jalal   2048 Jan 31 19:13 [38;5;27muntar[0m/
+drwxrwxr-x 4 jalal jalal   2048 Jan 31 19:57 [38;5;27munzip[0m/
+-rwxrwxrwx 1 jalal jalal    234 Jan 28 19:33 [38;5;34musers.txt[0m*
+[m

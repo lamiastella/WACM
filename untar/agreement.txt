@@ -1,0 +1,30 @@
+Data and Code Use Agreement
+
+Copyright Notice. The data and code in the associated files (Files) is 
+copyrighted by the Board of Regents of the University of Wisconsin System. 
+Access to the FILES is conditioned upon your agreement to the following 
+terms and conditions.  The code is for non-commercial use only.
+
+No Warranties. I understand that the Files are made available free of charge
+by Professor Xiaojin Zhu as a courtesy to the research community. I
+understand and accept that these FILES are provided as-is, with no warranties
+of any kind, including but not limited to warranties of fitness for a
+particular purpose or warranties of non-infringement.
+
+Liability. I agree to be responsible for any and all liability arising
+from my use of the Files, and to hold Professor Xiaojin Zhu and the
+University of Wisconsin-Madison harmless from any such liability. I
+further agree to comply with all applicable laws and regulations in the
+use of the Files.
+
+Notification of Publication or Presentation of Files. I agree to notify
+Professor Xiaojin Zhu at jerryzhu@cs.wisc.edu at the time of any
+publication or presentation using the Files from this site.
+
+Acknowledgment of Source of Files. I agree to cite the relevant papers or 
+acknowledge Professor Xiaojin Zhu and the University of Wisconsin-Madison 
+as the source of Files in any such publication or presentation.
+
+Transfer. I agree that I will not share or transfer the Files obtained from
+this site to any other person, and I will refer any requests for such Files
+to Professor Zhu at jerryzhu@cs.wisc.edu.
